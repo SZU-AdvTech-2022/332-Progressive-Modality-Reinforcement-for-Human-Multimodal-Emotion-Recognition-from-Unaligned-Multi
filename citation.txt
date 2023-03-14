@@ -1,0 +1,7 @@
+@inproceedings{REPO-333,
+    author = "Lv, Fengmao and Chen, Xiang and Huang, Yanyong and Duan, Lixin and Lin, Guosheng",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    pages = "2554-2562",
+    title = "{Progressive Modality Reinforcement for Human Multimodal Emotion Recognition from Unaligned Multimodal Sequences}",
+    year = "2021"
+}
